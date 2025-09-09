@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\locallibrary",
+    "\\catalog",
+    "\\catalog\\templates\\catalog",
     "\\locallibrary\\catalog"
   ],
-  "SelectedNode": "\\locallibrary\\catalog\\urls.py",
+  "SelectedNode": "\\catalog\\models.py",
   "PreviewInSolutionExplorer": false
 }
