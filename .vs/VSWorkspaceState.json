@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\catalog",
+    "\\catalog\\templates",
     "\\catalog\\templates\\catalog",
-    "\\locallibrary\\catalog"
+    "\\locallibrary",
+    "\\templates",
+    "\\templates\\registration"
   ],
-  "SelectedNode": "\\catalog\\models.py",
+  "SelectedNode": "\\locallibrary\\settings.py",
   "PreviewInSolutionExplorer": false
 }

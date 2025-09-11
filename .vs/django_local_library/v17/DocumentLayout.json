@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Oghuz\\django_local_library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\author_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\locallibrary\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:locallibrary\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -15,12 +15,24 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\book_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\author_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\author_detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\book_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_form.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\book_form.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_confirm_delete.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\book_confirm_delete.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_confirm_delete.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\author_confirm_delete.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -31,12 +43,84 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\base_generic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\admin.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\forms.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\apps.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\on_loan_books.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\on_loan_books.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\locallibrary\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:locallibrary\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\author_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_renew_librarian.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\book_renew_librarian.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\bookinstance_list_borrowed_user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\bookinstance_list_borrowed_user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\registration\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\author_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\static\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\static\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catalog\\templates\\catalog\\book_list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_complete.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\registration\\password_reset_complete.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_confirm.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\registration\\password_reset_confirm.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_email.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\registration\\password_reset_email.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_done.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\registration\\password_reset_done.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\registration\\password_reset_form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\logged_out.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:templates\\registration\\logged_out.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,7 +140,7 @@
               "RelativeDocumentMoniker": "catalog\\models.py",
               "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\models.py",
               "RelativeToolTip": "catalog\\models.py",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAJQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEQAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-05T13:56:19.878Z",
               "IsPinned": true,
@@ -65,27 +149,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "author_detail.html",
-              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_detail.html",
-              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\author_detail.html",
-              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_detail.html",
-              "RelativeToolTip": "catalog\\templates\\catalog\\author_detail.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-09T08:33:47.293Z",
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\locallibrary\\settings.py",
+              "RelativeDocumentMoniker": "locallibrary\\settings.py",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\locallibrary\\settings.py",
+              "RelativeToolTip": "locallibrary\\settings.py",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T11:38:37.421Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "author_list.html",
-              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_list.html",
-              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\author_list.html",
-              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_list.html",
-              "RelativeToolTip": "catalog\\templates\\catalog\\author_list.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\views.py",
+              "RelativeDocumentMoniker": "catalog\\views.py",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\views.py",
+              "RelativeToolTip": "catalog\\views.py",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-05T10:52:10.402Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\urls.py",
+              "RelativeDocumentMoniker": "catalog\\urls.py",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\urls.py",
+              "RelativeToolTip": "catalog\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-05T11:29:37.357Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "book_confirm_delete.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_confirm_delete.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\book_confirm_delete.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_confirm_delete.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\book_confirm_delete.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-09T08:12:58.177Z",
+              "WhenOpened": "2025-09-11T12:25:14.643Z",
               "EditorCaption": ""
             },
             {
@@ -96,14 +209,230 @@
               "RelativeDocumentMoniker": "catalog\\templates\\catalog\\book_detail.html",
               "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_detail.html",
               "RelativeToolTip": "catalog\\templates\\catalog\\book_detail.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-09-05T13:12:39.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admin.py",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\admin.py",
+              "RelativeDocumentMoniker": "catalog\\admin.py",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\admin.py",
+              "RelativeToolTip": "catalog\\admin.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T13:17:54.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "book_form.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_form.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\book_form.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_form.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\book_form.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-11T11:19:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "base_generic.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\base_generic.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\base_generic.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\base_generic.html",
+              "RelativeToolTip": "catalog\\templates\\base_generic.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-05T10:53:27.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "author_detail.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_detail.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\author_detail.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_detail.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\author_detail.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T08:33:47.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "author_confirm_delete.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_confirm_delete.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\author_confirm_delete.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_confirm_delete.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\author_confirm_delete.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-11T10:51:17.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "forms.py",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\forms.py",
+              "RelativeDocumentMoniker": "catalog\\forms.py",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\forms.py",
+              "RelativeToolTip": "catalog\\forms.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-10T13:43:32.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "apps.py",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\apps.py",
+              "RelativeDocumentMoniker": "catalog\\apps.py",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\apps.py",
+              "RelativeToolTip": "catalog\\apps.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-11T11:54:41.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "tests.py",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\tests.py",
+              "RelativeDocumentMoniker": "catalog\\tests.py",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\tests.py",
+              "RelativeToolTip": "catalog\\tests.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-11T12:01:05.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "on_loan_books.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\on_loan_books.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\on_loan_books.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\on_loan_books.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\on_loan_books.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T14:01:21.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "urls.py",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\locallibrary\\urls.py",
+              "RelativeDocumentMoniker": "locallibrary\\urls.py",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\locallibrary\\urls.py",
+              "RelativeToolTip": "locallibrary\\urls.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-09T11:32:11.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "author_form.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_form.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\author_form.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_form.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\author_form.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-11T10:49:41.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "book_renew_librarian.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_renew_librarian.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\book_renew_librarian.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_renew_librarian.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\book_renew_librarian.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-11T09:33:31.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bookinstance_list_borrowed_user.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\bookinstance_list_borrowed_user.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\bookinstance_list_borrowed_user.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\bookinstance_list_borrowed_user.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\bookinstance_list_borrowed_user.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T13:26:04.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\index.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\index.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\index.html",
+              "RelativeToolTip": "catalog\\templates\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-05T10:52:22.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "author_list.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_list.html",
+              "RelativeDocumentMoniker": "catalog\\templates\\catalog\\author_list.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\author_list.html",
+              "RelativeToolTip": "catalog\\templates\\catalog\\author_list.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T08:12:58.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\login.html",
+              "RelativeDocumentMoniker": "templates\\registration\\login.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\login.html",
+              "RelativeToolTip": "templates\\registration\\login.html",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T11:41:05.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\static\\css\\styles.css",
+              "RelativeDocumentMoniker": "catalog\\static\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\static\\css\\styles.css",
+              "RelativeToolTip": "catalog\\static\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-09T12:35:13.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "book_list.html",
               "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\catalog\\book_list.html",
               "RelativeDocumentMoniker": "catalog\\templates\\catalog\\book_list.html",
@@ -111,60 +440,79 @@
               "RelativeToolTip": "catalog\\templates\\catalog\\book_list.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-05T11:55:40.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T11:55:40.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "urls.py",
-              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\urls.py",
-              "RelativeDocumentMoniker": "catalog\\urls.py",
-              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\urls.py",
-              "RelativeToolTip": "catalog\\urls.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-05T11:29:37.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "base_generic.html",
-              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\base_generic.html",
-              "RelativeDocumentMoniker": "catalog\\templates\\base_generic.html",
-              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\base_generic.html",
-              "RelativeToolTip": "catalog\\templates\\base_generic.html",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAARAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "password_reset_complete.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_complete.html",
+              "RelativeDocumentMoniker": "templates\\registration\\password_reset_complete.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_complete.html",
+              "RelativeToolTip": "templates\\registration\\password_reset_complete.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-05T10:53:27.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T12:08:54.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\index.html",
-              "RelativeDocumentMoniker": "catalog\\templates\\index.html",
-              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\templates\\index.html",
-              "RelativeToolTip": "catalog\\templates\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "password_reset_confirm.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_confirm.html",
+              "RelativeDocumentMoniker": "templates\\registration\\password_reset_confirm.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_confirm.html",
+              "RelativeToolTip": "templates\\registration\\password_reset_confirm.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-05T10:52:22.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T12:08:10.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "views.py",
-              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\catalog\\views.py",
-              "RelativeDocumentMoniker": "catalog\\views.py",
-              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\catalog\\views.py",
-              "RelativeToolTip": "catalog\\views.py",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-09-05T10:52:10.402Z",
-              "EditorCaption": ""
+              "DocumentIndex": 26,
+              "Title": "password_reset_email.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_email.html",
+              "RelativeDocumentMoniker": "templates\\registration\\password_reset_email.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_email.html",
+              "RelativeToolTip": "templates\\registration\\password_reset_email.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T12:07:29.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "password_reset_done.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_done.html",
+              "RelativeDocumentMoniker": "templates\\registration\\password_reset_done.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_done.html",
+              "RelativeToolTip": "templates\\registration\\password_reset_done.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T12:06:43.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "password_reset_form.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_form.html",
+              "RelativeDocumentMoniker": "templates\\registration\\password_reset_form.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\password_reset_form.html",
+              "RelativeToolTip": "templates\\registration\\password_reset_form.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T12:06:18.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "logged_out.html",
+              "DocumentMoniker": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\logged_out.html",
+              "RelativeDocumentMoniker": "templates\\registration\\logged_out.html",
+              "ToolTip": "C:\\Users\\Oghuz\\django_local_library\\templates\\registration\\logged_out.html",
+              "RelativeToolTip": "templates\\registration\\logged_out.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-09T11:56:43.933Z"
             }
           ]
         }
