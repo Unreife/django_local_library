@@ -107,24 +107,24 @@ def renew_book_librarian(request, pk):
     if request.method == 'POST':
 
         # Create a form instance and populate it with data from the request (binding):
-        form = RenewBookForm(request.POST)
+        book_renewal_form = RenewBookForm(request.POST)
 
         # Check if the form is valid:
-        if form.is_valid():
+        if book_renewal_form.is_valid():
             # process the data in form.cleaned_data as required (here we just write it to the model due_back field)
-            book_instance.due_back = form.cleaned_data['renewal_date']
+            book_instance.due_back = book_renewal_form.cleaned_data['renewal_date']
             book_instance.save()
 
             # redirect to a new URL:
             return HttpResponseRedirect(reverse('all-borrowed'))
 
-    # If this is a GET (or any other method) create the default form.
+    # If this is a GET (or any other method) create the default form
     else:
         proposed_renewal_date = datetime.date.today() + datetime.timedelta(weeks=3)
-        form = RenewBookForm(initial={'renewal_date': proposed_renewal_date})
+        book_renewal_form = RenewBookForm(initial={'renewal_date': proposed_renewal_date})
 
     context = {
-        'form': form,
+        'book_renewal_form': book_renewal_form,
         'book_instance': book_instance,
     }
 
@@ -186,4 +186,3 @@ class BookDelete(PermissionRequiredMixin, DeleteView):
             return HttpResponseRedirect(
                 reverse("book-delete", kwargs={"pk": self.object.pk})
             )
-    
