@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-!tzs*^b&5zz4e)3!3u#+h$6_(y4i!*be!3do18-g@%yi@on)w=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Oghuz.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
@@ -123,5 +123,8 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = 'http://127.0.0.1:8000/catalog/'
+
+# During development/for this tutorial you can instead set just the base URL
+CSRF_TRUSTED_ORIGINS = ['https://*.pythonanywhere.com']
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
