@@ -23,6 +23,10 @@
                 <li><a href="{% url 'index' %}">Home</a></li>
                 <li><a href="{% url 'books' %}">All books</a></li>
                 <li><a href="{% url 'authors' %}">All authors</a></li>
+                <br />
+                <li><strong>Macros</strong></li>
+                <li><a href="{% url 'macros:dashboard' %}">Macros Dashboard</a></li>
+                <li><a href="{% url 'macros:history' %}">Macros History</a></li>
                 {% if user.is_authenticated %}
                 <br />
                 <li>User: {{ user.get_username }}</li>

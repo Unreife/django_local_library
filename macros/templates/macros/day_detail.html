@@ -1,0 +1,26 @@
+{% extends 'macros/base_macros.html' %}
+
+{% block content %}
+  <h1>Entries for {{ target }}</h1>
+
+  <h3>Totals</h3>
+  <ul>
+    <li>Calories: {{ totals.total_calories|default:0 }}</li>
+    <li>Protein (g): {{ totals.total_protein|default:0 }}</li>
+    <li>Carbs (g): {{ totals.total_carbs|default:0 }}</li>
+    <li>Fats (g): {{ totals.total_fats|default:0 }}</li>
+  </ul>
+
+  <h3>Entries</h3>
+  <ul>
+    {% for entry in entries %}
+      <li>{{ entry.name }} — {{ entry.calories }} kcal (P {{ entry.protein_g }} / C {{ entry.carbs_g }} / F {{ entry.fats_g }})</li>
+    {% empty %}
+      <li>No entries.</li>
+    {% endfor %}
+  </ul>
+
+  <p><a href="{% url 'macros:history' %}">Back to history</a></p>
+{% endblock %}
+
+

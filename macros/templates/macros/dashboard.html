@@ -1,0 +1,39 @@
+{% extends 'macros/base_macros.html' %}
+
+{% block content %}
+  <h1>Macros Dashboard</h1>
+
+  <h3>Remaining for Today</h3>
+  <ul>
+    <li>Calories: {{ remaining.calories }}</li>
+    <li>Protein (g): {{ remaining.protein_g }}</li>
+    <li>Carbs (g): {{ remaining.carbs_g }}</li>
+    <li>Fats (g): {{ remaining.fats_g }}</li>
+  </ul>
+
+  <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Add food</button>
+  </form>
+
+  <form method="post" action="{% url 'macros:reset_today' %}" style="margin-top:1rem;">
+    {% csrf_token %}
+    <button type="submit">Reset today's entries</button>
+  </form>
+
+  <details style="margin-top:1rem;">
+    <summary>Today's entries</summary>
+    <ul>
+      {% for entry in entries %}
+        <li>{{ entry.name }} — {{ entry.calories }} kcal (P {{ entry.protein_g }} / C {{ entry.carbs_g }} / F {{ entry.fats_g }})</li>
+      {% empty %}
+        <li>No entries yet.</li>
+      {% endfor %}
+    </ul>
+  </details>
+
+  <p><a href="{% url 'macros:settings' %}">Edit settings</a> · <a href="{% url 'macros:history' %}">View history</a></p>
+{% endblock %}
+
+

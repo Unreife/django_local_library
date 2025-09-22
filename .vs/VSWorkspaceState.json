@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\catalog",
-    "\\catalog\\templates\\catalog",
-    "\\catalog\\tests",
-    "\\locallibrary",
-    "\\templates\\registration"
+    "\\catalog"
   ],
-  "SelectedNode": "\\catalog\\tests\\test_views.py",
+  "SelectedNode": "\\manage.py",
   "PreviewInSolutionExplorer": false
 }

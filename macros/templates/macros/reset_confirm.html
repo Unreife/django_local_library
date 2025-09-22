@@ -1,0 +1,12 @@
+{% extends 'macros/base_macros.html' %}
+
+{% block content %}
+  <h1>Reset today's entries?</h1>
+  <form method="post">
+    {% csrf_token %}
+    <button type="submit">Confirm reset</button>
+    <a href="{% url 'macros:dashboard' %}">Cancel</a>
+  </form>
+{% endblock %}
+
+

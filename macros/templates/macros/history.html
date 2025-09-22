@@ -1,0 +1,20 @@
+{% extends 'macros/base_macros.html' %}
+
+{% block content %}
+  <h1>History</h1>
+  <ul>
+    {% for day in days %}
+      <li>
+        <a href="{% url 'macros:day_detail' year=day.eaten_at.year month=day.eaten_at.month day=day.eaten_at.day %}">
+          {{ day.eaten_at }}
+        </a>
+        — {{ day.total_calories|default:0 }} kcal (P {{ day.total_protein|default:0 }} / C {{ day.total_carbs|default:0 }} / F {{ day.total_fats|default:0 }})
+      </li>
+    {% empty %}
+      <li>No history yet.</li>
+    {% endfor %}
+  </ul>
+  <p><a href="{% url 'macros:dashboard' %}">Back to dashboard</a></p>
+{% endblock %}
+
+

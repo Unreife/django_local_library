@@ -1,0 +1,17 @@
+{% extends 'macros/base_macros.html' %}
+
+{% block content %}
+  <h1>Edit Macro Settings</h1>
+  <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Save</button>
+  </form>
+  <p style="margin-top:1rem;">
+    <strong>Calculated daily calories:</strong>
+    {{ form.instance.daily_calories }} kcal
+  </p>
+  <p><a href="{% url 'macros:dashboard' %}">Back to dashboard</a></p>
+{% endblock %}
+
+
