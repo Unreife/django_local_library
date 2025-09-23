@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'catalog.apps.CatalogConfig', # This object was created for us in 
-    'macros',
+    'macros.apps.MacrosConfig',
 ]
 
 MIDDLEWARE = [
